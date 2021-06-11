@@ -1,0 +1,3 @@
+include ':locationmanager'
+include ':app'
+rootProject.name = "eqworks_kotlin"
